@@ -12,16 +12,18 @@ With these preliminary data preprocessing steps completed, I was poised to delve
 # Tech Stack Used
 Microsoft Excel 2021 version is used for this project due to its simplicity of use 
 and extraordinary analysis and visualization capability.
+
 -Observations
-![alt text](picture1.png)
 
-![alt text](picture2.png)
+![alt text](Picture1.png)
 
-![alt text](picture3.png)
+![alt text](Picture2.png)
 
-![alt text](picture4.png)
+![alt text](Picture3.png)
 
-![alt text](picture5.png)
+![alt text](Picture4.png)
+
+![alt text](Picture5.png)
 
 Based on the analysis of the scatter plot depicting the relationship between movie release year and IMDB scores, several noteworthy insights emerge. 
 
@@ -33,7 +35,7 @@ This widening spectrum of IMDB scores suggests a diversification in cinematic of
 
 Overall, these observations underscore the dynamic nature of the film industry over time, marked by shifts in both quantity and quality of movie releases, reflecting the evolving preferences and cultural dynamics of audiences worldwide.
 
-![alt text](picture6.png)
+![alt text](Picture6.png)
 
 Upon analyzing the scatter plot depicting the relationship between the number of critic reviews and IMDB scores, several insightful observations come to light.
 
@@ -45,7 +47,7 @@ This finding underscores the importance of critical reception in shaping the per
 
 In conclusion, the observed correlation between the number of critic reviews and IMDB scores highlights the significance of critical acclaim in influencing audience perceptions and contributing to the overall reception of a movie within the cinematic landscape.
 
-![alt text](picture7.png)
+![alt text](Picture7.png)
 
 In examining the scatter plot depicting the correlation between the number of user reviews and IMDB scores, a series of insightful patterns emerges.
 
@@ -57,7 +59,7 @@ This consistent pattern underscores a positive correlation between the volume of
 
 These observations underscore the significance of user engagement and feedback in shaping audience perceptions and influencing the overall reception of a movie. As such, the findings emphasize the pivotal role of user reviews in shaping the success and reputation of movies within the cinematic landscape.
 
-![alt text](picture8.png)
+![alt text](Picture8.png)
 
 After closely analyzing the bar chart depicting content ratings alongside their respective mean IMDB scores, significant patterns emerge, shedding light on how content classification impacts audience reception.Remarkably, movies classified under the "Approved" and "M" (Mature) ratings exhibit a notably higher average IMDB score, standing at an impressive 7.45 and above. This trend suggests a consistent preference among audiences for content within these categories, characterized by mature themes and content.
 
